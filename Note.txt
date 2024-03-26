@@ -1,0 +1,2 @@
+Create a database in sql and import the table in the database
+remember to change the database name in the code
